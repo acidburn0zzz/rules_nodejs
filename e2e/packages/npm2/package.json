@@ -2,10 +2,10 @@
   "description": "runtime dependencies for packages example",
   "dependencies": {
     "jsesc": "~1.2.0",
-    "jasmine": "2.8.0"
+    "jasmine": "6.3.0"
   },
   "devDependencies": {
-    "tmp": "0.1.0"
+    "tmp": "0.2.7"
   },
   "scripts": {
     "postinstall": "node ../postinstall.js"
