@@ -16,7 +16,7 @@
         "@angular/material": "11.2.11",
         "@angular/platform-browser": "11.2.12",
         "@angular/platform-browser-dynamic": "11.2.12",
-        "@angular/platform-server": "11.2.12",
+        "@angular/platform-server": "20.3.27",
         "@angular/router": "11.2.12",
         "@angular/service-worker": "11.2.12",
         "@ngrx/store": "^11.0.1",
@@ -31,7 +31,7 @@
     },
     "devDependencies": {
         "@angular/cli": "11.2.11",
-        "@angular/compiler": "11.2.12",
+        "@angular/compiler": "20.3.27",
         "@angular/compiler-cli": "11.2.12",
         "@babel/cli": "^7.6.0",
         "@babel/core": "^7.6.0",
