@@ -1,7 +1,7 @@
 {
   "name": "@bazel/cypress",
   "dependencies": {
-    "tar": "6.0.5"
+    "tar": "7.5.21"
   },
   "peerDependencies": {
     "cypress": ">=4.7.0"
